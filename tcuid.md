@@ -8,7 +8,7 @@ mindmap
       Scenario
     Psychology and Human Factors
       FL(Fitts' Law)
-      ::icon(fa-solid fa-people-arrows)
+      ::icon(fa fa-people-arrows)
         Size W
         Distance A
       Mistakes, errors, slips
