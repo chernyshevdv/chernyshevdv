@@ -7,11 +7,24 @@ mindmap
       Task
       Scenario
     Psychology and Human Factors
-      Fitts' Law
-        Size (W)
-        Distance (A)
+      FL(Fitts' Law)
+      ::icon(fa-solid fa-people-arrows)
+        Size W
+        Distance A
+      Mistakes, errors, slips
+      Conceptual models ?
       Gulfs
         Gulf of Execution
         Gulf of Evaluation
+      Short- and long-term memory, attention
+      Design Principles
+        Visibility
+        Feedback
+        Mappings
+        Constraints
+      High-Level Models
+        Distributed Cognition
+        Activity Theory
+        Situated Action
 ```
 Fitts' Law: $a+b \cdot log_2\left(\frac{A}{W}+1\right)$
