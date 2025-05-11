@@ -7,17 +7,18 @@ mindmap
       Task
       Scenario
     Psychology and Human Factors
-      FL(Fitts' Law)
-      ::icon(fa fa-people-arrows)
+      FL(**Fitts' Law**)
         Size W
         Distance A
-      Mistakes, errors, slips
-      Conceptual models ?
-      Gulfs
+      MES(**Mistakes, errors, slips**)
+      CM(**Conceptual models**)
+        Design model
+        User model
+      G(**Gulfs**)
         Gulf of Execution
         Gulf of Evaluation
       Short- and long-term memory, attention
-      Design Principles
+      DP(**Design Principles**)
         Visibility
         Feedback
         Mappings
