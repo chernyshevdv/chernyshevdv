@@ -14,8 +14,9 @@ mindmap
 mindmap
   Psychology and Human Factors
     CM(**Conceptual models**)
-      Design
       User
+      Design
+      System
     G(**Gulfs**)
       Execution
       Evaluation
@@ -28,3 +29,17 @@ mindmap
       Constraints
 ```
 Fitts' Law: $a+b \cdot log_2\left(\frac{A}{W}+1\right)$
+
+### Conceptual models
+
+- Design Model is how the designer intended system to work
+- User Model is how user believes it works
+- System Image is all the things about the system visible to a user
+
+### Short-term and long-term
+
+### Concepts to check
+- [ ] [Conceptual models](#conceptual-models)
+- [ ] Short-term and long-term
+- [ ] Human perception
+- [ ] 
